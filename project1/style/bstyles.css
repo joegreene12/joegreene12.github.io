@@ -18,6 +18,10 @@ body {
   padding:10px;
 }
 
+#header img {
+  text-align: center;
+}
+
 /*#body {
   width:960px;
   margin:0 auto;
@@ -66,6 +70,27 @@ iframe{
 }
 img{
   width: 35%
+}
+
+h6 {
+  font-size: 1.75rem;
+}
+
+nav ul li {
+  display: inline-block;
+  list-style: none;
+  padding: 1rem;
+  border: 2px dashed white;
+}
+
+nav ul li a,nav ul li a:hover,nav ul li a:active,nav ul li a:visited {
+  font-weight: bolder;
+  color: white;
+  text-decoration: none;
+}
+
+h6 {
+  font-size: 1.75rem;
 }
 
 
