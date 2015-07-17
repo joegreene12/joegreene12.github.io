@@ -1,0 +1,89 @@
+html,
+body {
+    margin:0;
+    padding:0;
+    color:#000;
+    font-family: 'Karla', sans-serif;
+    background-image: url("http://www.resimsi.com/wp-content/uploads/2015/06/plain-purple-background.jpg");
+}
+
+#page-wrap { width: 75%; margin: 80px auto; }
+
+
+#header {
+  display: inline;
+  text-align: center;
+  background-image: url("http://www.resimsi.com/wp-content/uploads/2015/06/plain-purple-background.jpg");
+  font-family: 'Karla', sans-serif;
+  padding:10px;
+}
+
+/*#body {
+  width:960px;
+  margin:0 auto;
+  background:#fff;
+}*/
+
+#main{
+  margin: 0 auto;
+}
+
+#leftSide {
+  background:#dff;
+  float:left;
+  width:240px;
+  padding:10px;
+}
+
+#middle {
+  background:#ddf;
+  font-family: 'Karla', sans-serif;
+  float:left;
+  width:480px;
+  padding:10px;
+}
+
+#rightSide {
+  background:#dff;
+  float:left;
+  width:240px;
+
+}
+
+#maptime {
+  display: block;
+  width: 75%;
+  margin: 0 auto;
+  clear: both;
+}
+iframe{
+  width: 100%;
+  margin: 0 auto;
+}
+
+#picture {
+
+}
+img{
+  width: 35%
+}
+
+
+#footer {
+  background-image: url("http://www.resimsi.com/wp-content/uploads/2015/06/plain-purple-background.jpg");
+  font-size: 20px;
+  clear:both;
+  color: white;
+  padding:10px;
+  text-align: center;
+}
+
+
+@media (max-width: 500px) {
+  #middle {
+    width: 85%;
+  }
+  #rightSide{
+    width: 85%;
+  }
+}
