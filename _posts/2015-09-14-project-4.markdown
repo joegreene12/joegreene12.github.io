@@ -67,4 +67,4 @@ Some of the challenges presented throughout the project were implementation of f
 ## Summary of Project
 
 ## Github Link
-[Github Link](https://github.com/joegreene12/projectfour)
+[Github Drake Type](https://github.com/joegreene12/projectfour)
