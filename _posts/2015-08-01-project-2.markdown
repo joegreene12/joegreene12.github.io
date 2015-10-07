@@ -35,7 +35,7 @@ On the client side, Schoolfish employs the following:
 ## Link to Website/Github
 
 [School-fish github](https://github.com/TreatYoSelf/school-fish)
-[Schoo-fish live](https://104.131.106.81)
+[Schoo-fish live](http://104.131.106.81/)
 
 <!-- *Add a link here if it is legally ok to do so.. if not, do not include this section in your page at all!* -->
 
