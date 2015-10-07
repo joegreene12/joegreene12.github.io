@@ -6,13 +6,60 @@
 </description>
     <link>https://joegreene12.github.io/</link>
     <atom:link href="https://joegreene12.github.io/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Wed, 07 Oct 2015 05:35:52 -0500</pubDate>
-    <lastBuildDate>Wed, 07 Oct 2015 05:35:52 -0500</lastBuildDate>
+    <pubDate>Wed, 07 Oct 2015 07:41:11 -0500</pubDate>
+    <lastBuildDate>Wed, 07 Oct 2015 07:41:11 -0500</lastBuildDate>
     <generator>Jekyll v2.5.3</generator>
     
       <item>
         <title>Project #4: Drake Type</title>
-        <description>&lt;h2 id=&quot;summary-of-project&quot;&gt;Summary of Project&lt;/h2&gt;
+        <description>&lt;h1 id=&quot;projectfour&quot;&gt;projectfour&lt;/h1&gt;
+
+&lt;p&gt;Application for users that want to learn/improve typing skills. The idea for this
+application is to assist in learning and keeping engagement high. Redundancy is a huge
+issue in determining success or failure when learning something that seems boring. I hope to make an engaging app by keeping
+the user is entertained while learning.&lt;/p&gt;
+
+&lt;h2 id=&quot;user-stories&quot;&gt;User Stories&lt;/h2&gt;
+&lt;ul&gt;
+  &lt;li&gt;Users who want to learn how to type while making the experience fun.&lt;/li&gt;
+  &lt;li&gt;Users who have a hard time learning when the material is “dry”.&lt;/li&gt;
+  &lt;li&gt;Users who want to have fun while working on a viable skill.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;*As a user, I want to be able to type fast and learn how to type without the process being
+boring and non-engaging through solutions that are appealing.&lt;/p&gt;
+
+&lt;p&gt;*As a parent of a user, I want the user, my child, to type correctly and keep them productive and&lt;br /&gt;
+entertained with replay-ability.&lt;/p&gt;
+
+&lt;p&gt;*As a teacher, teaching users how to type can easily become a bore and be a turn off because of the
+redundancy. I know I want users to have a certain proficiency at a certain age/grade
+level.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;http://i.imgur.com/wik2LE6.png&quot; alt=&quot;alt image&quot; /&gt;
+&lt;img src=&quot;http://i.imgur.com/LQa0hkn.png&quot; alt=&quot;alt image&quot; /&gt;
+&lt;img src=&quot;http://i.imgur.com/0xiN5aK.png&quot; alt=&quot;alt image&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;*It’s never to late to learn how to type. I want to use popular contemporary music and
+it’s influence to create a learning experience that is fun and productive.&lt;/p&gt;
+
+&lt;h2 id=&quot;wireframes&quot;&gt;Wireframes&lt;/h2&gt;
+&lt;p&gt;&lt;img src=&quot;http://i.imgur.com/YVi617i.jpg&quot; alt=&quot;alt image&quot; /&gt;
+&lt;a href=&quot;http://i.imgur.com/3UwbLXC.jpg&quot;&gt;imgur&lt;/a&gt;
+&lt;a href=&quot;http://i.imgur.com/of0qFY1.jpg&quot;&gt;imgur&lt;/a&gt;
+&lt;a href=&quot;http://i.imgur.com/BO4Rs8X.jpg&quot;&gt;imgur&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;instructions&quot;&gt;Instructions&lt;/h2&gt;
+
+&lt;h2 id=&quot;technical-requirements&quot;&gt;Technical requirements/&lt;/h2&gt;
+&lt;p&gt;Sinatra with Postgres
+Authentication with Crud
+Skeleton&lt;/p&gt;
+
+&lt;h2 id=&quot;installation&quot;&gt;Installation&lt;/h2&gt;
+&lt;p&gt;##Challenges
+Some of the challenges presented throughout the project were implementation of features that will need to be included into the next version. This project was clearly a demonstration of being completely clueless about CSS twelve weeks ago. I am confident that self-improvement in all areas of web development will happen. Keep striving to learn, everyday!
+## Summary of Project&lt;/p&gt;
 
 &lt;p&gt;Insert something about this project, who it was for, why I did it, etc.&lt;/p&gt;
 
