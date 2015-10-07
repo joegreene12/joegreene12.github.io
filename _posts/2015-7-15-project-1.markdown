@@ -26,35 +26,13 @@ The technology used for project version 1.0 includes google maps api, html5, and
  Release Coming.
 
 
-# Schoolfish
-
-Schoolfish is a social network for educational experiences. Built with Sinatra, a wonderfully basic Ruby-based MVC framework, Schoolfish provides the tools needed to find, create, and promote classes and lectures on the web.
-
-![Project 1](http://imgur.com/LzGNZSU)
-
-## The stack
-
-Schoolfish leans on the remarkable simplicity of Sinatra's approach to MVC. Using server-side rendering via ERB templates, constructing views from Postgresql models is trivial with this platform. While postbacks may be a thing of the past, they are often quite performant, allowing a lean client payload and lower developer overhead to get the job done.
-
-Schoolfish leverages the following libraries to do its humble job:
-
-- Sinatra for MVC
-- Postgresql for managing data
-- HTTParty for making server-side HTTP requests in Ruby
-- Pony for sending transactional emails over SMTP
-
-On the client side, Schoolfish employs the following:
-
-- jQuery (because duh)
-- jQuery UI's pretty-OK datepicker, and a timepicker addon for simplicity's sake
-- Sass and Autoprefixer for building styles
-- Gulp.js for processing Sass into CSS and running Browsersync
+![Project 1](http://i.imgur.com/LzGNZSU.png)
 
 
 ## Link to Website/Github
 
-[School-fish github](https://github.com/TreatYoSelf/school-fish)
-[Schoo-fish live](http://104.131.106.81/)
+[Lena's github](https://github.com/joegreene12/joegreene12.github.io/tree/master/project1)
+[Lena's live](http://joegreene12.github.io/project1/)
 
 <!-- *Add a link here if it is legally ok to do so.. if not, do not include this section in your page at all!* -->
 

@@ -6,8 +6,8 @@
 </description>
     <link>https://joegreene12.github.io/</link>
     <atom:link href="https://joegreene12.github.io/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Wed, 07 Oct 2015 14:47:40 -0500</pubDate>
-    <lastBuildDate>Wed, 07 Oct 2015 14:47:40 -0500</lastBuildDate>
+    <pubDate>Wed, 07 Oct 2015 15:04:18 -0500</pubDate>
+    <lastBuildDate>Wed, 07 Oct 2015 15:04:18 -0500</lastBuildDate>
     <generator>Jekyll v2.5.3</generator>
     
       <item>
@@ -258,38 +258,12 @@ The one page site  what the school history and&lt;/p&gt;
  Issues for the project version 1.0 include CSS, DOM manipulation, and improved functionality. Version 1.2
  Release Coming.&lt;/p&gt;
 
-&lt;h1 id=&quot;schoolfish&quot;&gt;Schoolfish&lt;/h1&gt;
-
-&lt;p&gt;Schoolfish is a social network for educational experiences. Built with Sinatra, a wonderfully basic Ruby-based MVC framework, Schoolfish provides the tools needed to find, create, and promote classes and lectures on the web.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;http://imgur.com/LzGNZSU&quot; alt=&quot;Project 1&quot; /&gt;&lt;/p&gt;
-
-&lt;h2 id=&quot;the-stack&quot;&gt;The stack&lt;/h2&gt;
-
-&lt;p&gt;Schoolfish leans on the remarkable simplicity of Sinatra’s approach to MVC. Using server-side rendering via ERB templates, constructing views from Postgresql models is trivial with this platform. While postbacks may be a thing of the past, they are often quite performant, allowing a lean client payload and lower developer overhead to get the job done.&lt;/p&gt;
-
-&lt;p&gt;Schoolfish leverages the following libraries to do its humble job:&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Sinatra for MVC&lt;/li&gt;
-  &lt;li&gt;Postgresql for managing data&lt;/li&gt;
-  &lt;li&gt;HTTParty for making server-side HTTP requests in Ruby&lt;/li&gt;
-  &lt;li&gt;Pony for sending transactional emails over SMTP&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;On the client side, Schoolfish employs the following:&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;jQuery (because duh)&lt;/li&gt;
-  &lt;li&gt;jQuery UI’s pretty-OK datepicker, and a timepicker addon for simplicity’s sake&lt;/li&gt;
-  &lt;li&gt;Sass and Autoprefixer for building styles&lt;/li&gt;
-  &lt;li&gt;Gulp.js for processing Sass into CSS and running Browsersync&lt;/li&gt;
-&lt;/ul&gt;
+&lt;p&gt;&lt;img src=&quot;http://i.imgur.com/LzGNZSU.png&quot; alt=&quot;Project 1&quot; /&gt;&lt;/p&gt;
 
 &lt;h2 id=&quot;link-to-websitegithub&quot;&gt;Link to Website/Github&lt;/h2&gt;
 
-&lt;p&gt;&lt;a href=&quot;https://github.com/TreatYoSelf/school-fish&quot;&gt;School-fish github&lt;/a&gt;
-&lt;a href=&quot;http://104.131.106.81/&quot;&gt;Schoo-fish live&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://github.com/joegreene12/joegreene12.github.io/tree/master/project1&quot;&gt;Lena’s github&lt;/a&gt;
+&lt;a href=&quot;http://joegreene12.github.io/project1/&quot;&gt;Lena’s live&lt;/a&gt;&lt;/p&gt;
 
 &lt;!-- *Add a link here if it is legally ok to do so.. if not, do not include this section in your page at all!* --&gt;
 
