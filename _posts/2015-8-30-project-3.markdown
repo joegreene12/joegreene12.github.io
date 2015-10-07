@@ -51,7 +51,8 @@ Insert something about this project, who it was for, why I did it, etc.
 
 *Screenshots to go here!*
 
-![http://i.ytimg.com/vi/0Mz_LhuSNAw/maxresdefault.jpg](http://i.ytimg.com/vi/0Mz_LhuSNAw/maxresdefault.jpg)
+<!-- ![http://i.ytimg.com/vi/0Mz_LhuSNAw/maxresdefault.jpg](http://i.ytimg.com/vi/0Mz_LhuSNAw/maxresdefault.jpg) -->
+![Imgur](http://i.imgur.com/YoQH4AB.png)
 
 ## Summary of Technology Used
 
