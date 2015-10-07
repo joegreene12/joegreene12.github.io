@@ -1,0 +1,61 @@
+---
+layout: post
+title:  "Project #1"
+description:  project
+date:   2015-08-01 10:35:00
+categories: project portfolio sinatra javascript html activeRecord
+---
+
+
+# Lenas Artistic Beauty School
+
+Website to cater to aspiring students in the field of cosmetology on the South side of Chicago.
+Info providing the services and requirements for license certification.
+The one page site  what the school history and
+
+The technology used for project version 1.0 includes google maps api, html5, and css3.
+
+##Requirements
+ 1.Wireframe
+ 2.HTML/CSS Style Guide for your website
+ 3.HTML/CSS Layout of your site
+ 4.MVP
+
+ Unsolved issues
+ Issues for the project version 1.0 include CSS, DOM manipulation, and improved functionality. Version 1.2
+ Release Coming.
+
+
+# Schoolfish
+
+Schoolfish is a social network for educational experiences. Built with Sinatra, a wonderfully basic Ruby-based MVC framework, Schoolfish provides the tools needed to find, create, and promote classes and lectures on the web.
+
+![Project 1](http://imgur.com/LzGNZSU)
+
+## The stack
+
+Schoolfish leans on the remarkable simplicity of Sinatra's approach to MVC. Using server-side rendering via ERB templates, constructing views from Postgresql models is trivial with this platform. While postbacks may be a thing of the past, they are often quite performant, allowing a lean client payload and lower developer overhead to get the job done.
+
+Schoolfish leverages the following libraries to do its humble job:
+
+- Sinatra for MVC
+- Postgresql for managing data
+- HTTParty for making server-side HTTP requests in Ruby
+- Pony for sending transactional emails over SMTP
+
+On the client side, Schoolfish employs the following:
+
+- jQuery (because duh)
+- jQuery UI's pretty-OK datepicker, and a timepicker addon for simplicity's sake
+- Sass and Autoprefixer for building styles
+- Gulp.js for processing Sass into CSS and running Browsersync
+
+
+## Link to Website/Github
+
+[School-fish github](https://github.com/TreatYoSelf/school-fish)
+[Schoo-fish live](http://104.131.106.81/)
+
+<!-- *Add a link here if it is legally ok to do so.. if not, do not include this section in your page at all!* -->
+
+<!-- *Add a link to Github as well* -->
