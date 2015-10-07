@@ -6,8 +6,8 @@
 </description>
     <link>https://joegreene12.github.io/</link>
     <atom:link href="https://joegreene12.github.io/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Wed, 07 Oct 2015 08:17:21 -0500</pubDate>
-    <lastBuildDate>Wed, 07 Oct 2015 08:17:21 -0500</lastBuildDate>
+    <pubDate>Wed, 07 Oct 2015 12:39:40 -0500</pubDate>
+    <lastBuildDate>Wed, 07 Oct 2015 12:39:40 -0500</lastBuildDate>
     <generator>Jekyll v2.5.3</generator>
     
       <item>
@@ -43,46 +43,43 @@ level.&lt;/p&gt;
 &lt;p&gt;*It’s never to late to learn how to type. I want to use popular contemporary music and
 it’s influence to create a learning experience that is fun and productive.&lt;/p&gt;
 
-&lt;h2 id=&quot;wireframes&quot;&gt;Wireframes&lt;/h2&gt;
+&lt;h2 id=&quot;project-images&quot;&gt;Project Images&lt;/h2&gt;
 &lt;p&gt;&lt;img src=&quot;http://i.imgur.com/YVi617i.jpg&quot; alt=&quot;alt image&quot; /&gt;
 &lt;a href=&quot;http://i.imgur.com/3UwbLXC.jpg&quot;&gt;imgur&lt;/a&gt;
 &lt;a href=&quot;http://i.imgur.com/of0qFY1.jpg&quot;&gt;imgur&lt;/a&gt;
 &lt;a href=&quot;http://i.imgur.com/BO4Rs8X.jpg&quot;&gt;imgur&lt;/a&gt;&lt;/p&gt;
 
-&lt;h2 id=&quot;instructions&quot;&gt;Instructions&lt;/h2&gt;
+&lt;h2 id=&quot;installation-instructions&quot;&gt;Installation Instructions&lt;/h2&gt;
+&lt;ul&gt;
+  &lt;li&gt;Go to https://github.com/joegreene12/projectfour
+    &lt;ul&gt;
+      &lt;li&gt;copy ssh on the listed on right side of page&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;In terminal:
+    &lt;ul&gt;
+      &lt;li&gt;git clone (SSH key)&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Create a database for User authentication (Postgresql)&lt;/li&gt;
+  &lt;li&gt;Save database Git add/commit&lt;/li&gt;
+  &lt;li&gt;Bundle&lt;/li&gt;
+  &lt;li&gt;Bundle exec rackup&lt;/li&gt;
+  &lt;li&gt;Go to localhost:9292/&lt;/li&gt;
+&lt;/ul&gt;
 
 &lt;h2 id=&quot;technical-requirements&quot;&gt;Technical requirements/&lt;/h2&gt;
-&lt;p&gt;Sinatra with Postgres
-Authentication with Crud
-Skeleton&lt;/p&gt;
+&lt;p&gt;*Sinatra with Postgres
+*Authentication with Crud
+*Skeleton&lt;/p&gt;
 
 &lt;h2 id=&quot;installation&quot;&gt;Installation&lt;/h2&gt;
 &lt;p&gt;##Challenges
 Some of the challenges presented throughout the project were implementation of features that will need to be included into the next version. This project was clearly a demonstration of being completely clueless about CSS twelve weeks ago. I am confident that self-improvement in all areas of web development will happen. Keep striving to learn, everyday!
 ## Summary of Project&lt;/p&gt;
 
-&lt;p&gt;Insert something about this project, who it was for, why I did it, etc.&lt;/p&gt;
-
-&lt;h2 id=&quot;project-images&quot;&gt;Project Images&lt;/h2&gt;
-
-&lt;p&gt;&lt;em&gt;Screenshots to go here!&lt;/em&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;http://i.ytimg.com/vi/0Mz_LhuSNAw/maxresdefault.jpg&quot; alt=&quot;http://i.ytimg.com/vi/0Mz_LhuSNAw/maxresdefault.jpg&quot; /&gt;&lt;/p&gt;
-
-&lt;h2 id=&quot;summary-of-technology-used&quot;&gt;Summary of Technology Used&lt;/h2&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;HTML&lt;/li&gt;
-  &lt;li&gt;CSS&lt;/li&gt;
-  &lt;li&gt;Javascript&lt;/li&gt;
-  &lt;li&gt;Love&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;live-website&quot;&gt;Live Website&lt;/h2&gt;
-
-&lt;p&gt;&lt;em&gt;Add a link here if it is legally ok to do so.. if not, do not include this section in your page at all!&lt;/em&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;em&gt;Add a link to Github as well&lt;/em&gt;&lt;/p&gt;
+&lt;h2 id=&quot;github-link&quot;&gt;Github Link&lt;/h2&gt;
+&lt;p&gt;&lt;img src=&quot;https://github.com/joegreene12/projectfour&quot; alt=&quot;Github Link&quot; /&gt;&lt;/p&gt;
 </description>
         <pubDate>Mon, 14 Sep 2015 05:34:07 -0500</pubDate>
         <link>https://joegreene12.github.io/project/portfolio/javascript/html/css/crud/skeleton/2015/09/14/project-4.html</link>
