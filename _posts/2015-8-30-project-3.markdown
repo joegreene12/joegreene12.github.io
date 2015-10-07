@@ -45,4 +45,4 @@ The project will include authentication for API.
 
 ## Github Link
 
-![Github Link](https://github.com/joegreene12/movieNumbers)
+- [Github Link](https://github.com/joegreene12/movieNumbers)
