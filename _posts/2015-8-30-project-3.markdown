@@ -14,6 +14,7 @@ Ideation: The content my API holds within a single model are movie name, movie r
 The project will include authentication for API.
 
 ##Installation Instructions
+
 * Go to https://github.com/joegreene12/movieNumbers
   - copy ssh on the listed on right side of page
 * In terminal:
@@ -23,6 +24,10 @@ The project will include authentication for API.
 * Bundle exec rackup
 * Go to localhost:9292/
 
+
+## Project Images
+
+![Imgur](http://i.imgur.com/YoQH4AB.png)
 
 ## Technologies Used
 
@@ -38,31 +43,6 @@ The project will include authentication for API.
 * PG Commander
 
 
+## Github Link
 
-
-
-
-
-## Summary of Project
-
-Insert something about this project, who it was for, why I did it, etc.
-
-## Project Images
-
-*Screenshots to go here!*
-
-<!-- ![http://i.ytimg.com/vi/0Mz_LhuSNAw/maxresdefault.jpg](http://i.ytimg.com/vi/0Mz_LhuSNAw/maxresdefault.jpg) -->
-![Imgur](http://i.imgur.com/YoQH4AB.png)
-
-## Summary of Technology Used
-
-- HTML
-- CSS
-- Javascript
-- Love
-
-## Live Website
-
-*Add a link here if it is legally ok to do so.. if not, do not include this section in your page at all!*
-
-*Add a link to Github as well*
+![Github Link](https://github.com/joegreene12/movieNumbers)

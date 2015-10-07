@@ -1,9 +1,9 @@
 ---
 layout: post
 title:  "Project #1"
-description:  project
-date:   2015-08-01 10:35:00
-categories: project portfolio sinatra javascript html activeRecord
+description:  professional website
+date:   2015-07-15 12:15:00
+categories: project portfolio  javascript html activeRecord
 ---
 
 
