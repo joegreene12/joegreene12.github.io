@@ -1,0 +1,41 @@
+---
+layout: post
+title:  "Project #2: Classical MVC (Pair Programming)"
+description: pair programming project
+date:   2015-08-01 10:35:00
+categories: project portfolio sinatra javascript html activeRecord
+---
+
+
+# Schoolfish
+
+Schoolfish is a social network for educational experiences. Built with Sinatra, a wonderfully basic Ruby-based MVC framework, Schoolfish provides the tools needed to find, create, and promote classes and lectures on the web.
+
+![Schoolfish in action](https://raw.githubusercontent.com/TreatYoSelf/school-fish/master/screenshot.jpg)
+
+## The stack
+
+Schoolfish leans on the remarkable simplicity of Sinatra's approach to MVC. Using server-side rendering via ERB templates, constructing views from Postgresql models is trivial with this platform. While postbacks may be a thing of the past, they are often quite performant, allowing a lean client payload and lower developer overhead to get the job done.
+
+Schoolfish leverages the following libraries to do its humble job:
+
+- Sinatra for MVC
+- Postgresql for managing data
+- HTTParty for making server-side HTTP requests in Ruby
+- Pony for sending transactional emails over SMTP
+
+On the client side, Schoolfish employs the following:
+
+- jQuery (because duh)
+- jQuery UI's pretty-OK datepicker, and a timepicker addon for simplicity's sake
+- Sass and Autoprefixer for building styles
+- Gulp.js for processing Sass into CSS and running Browsersync
+
+
+## Link to Website/Github
+
+[School-fish github](https://github.com/TreatYoSelf/school-fish)
+
+<!-- *Add a link here if it is legally ok to do so.. if not, do not include this section in your page at all!* -->
+
+<!-- *Add a link to Github as well* -->

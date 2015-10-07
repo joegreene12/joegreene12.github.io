@@ -1,0 +1,11 @@
+
+
+Im am working on my HTML and CSS page as we speak. 
+I was not for sure how I was to explain my style guide.
+I can say I am using the colors grey, white, and purple.
+I am using a google font called Karla.
+grey (999) (239,235,227) (333)
+white (255,255,255)
+hot purple (221, 24,221)
+
+Hakuna Matata!

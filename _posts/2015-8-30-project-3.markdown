@@ -1,0 +1,67 @@
+---
+layout: post
+title:  "Project #3: API Server + Client"
+description: An API aplication!
+date:   2015-08-30 10:34:07
+categories: project portfolio Sinatra Express RESTful CRUD javascript html
+---
+
+# movieNumbers
+
+This is a project that involves using Sinatra to build an API about movies and the financial figures. Specifically, the interest is in finding out the top movies according to the budgets that were spent.
+
+Ideation: The content my API holds within a single model are movie name, movie release year, production budget, and world wide gross all inside one table.
+The project will include authentication for API.
+
+##Installation Instructions
+* Go to https://github.com/joegreene12/movieNumbers
+  - copy ssh on the listed on right side of page
+* In terminal:
+  - git clone (SSH key)
+* Create a database (Postgresql)  
+* Save database Git add/commit
+* Bundle exec rackup
+* Go to localhost:9292/
+
+
+## Technologies Used
+
+* HTML5 & CSS
+* Bootstrap
+* Javascript
+* Sinatra (Ruby)
+* Postgres Database
+* Active Record ORM
+* jQuery
+* Underscore.js
+* Backbone.js
+* PG Commander
+
+
+
+
+
+
+
+## Summary of Project
+
+Insert something about this project, who it was for, why I did it, etc.
+
+## Project Images
+
+*Screenshots to go here!*
+
+![http://i.ytimg.com/vi/0Mz_LhuSNAw/maxresdefault.jpg](http://i.ytimg.com/vi/0Mz_LhuSNAw/maxresdefault.jpg)
+
+## Summary of Technology Used
+
+- HTML
+- CSS
+- Javascript
+- Love
+
+## Live Website
+
+*Add a link here if it is legally ok to do so.. if not, do not include this section in your page at all!*
+
+*Add a link to Github as well*

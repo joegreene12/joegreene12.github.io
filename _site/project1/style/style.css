@@ -1,0 +1,36 @@
+.main-container {
+  max-width: 960px;
+  margin: auto;
+}
+
+.site-menu,
+.sidebar {
+  width: 20%;
+}
+
+.main-content {
+  width: 60%;
+}
+
+.site-menu,
+.main-content,
+.sidebar {
+  float: right;
+}
+
+.main-content {
+  width: 60%;
+  background-color: LightPink;
+}
+
+.site-menu {
+  background-color: LightGoldenRodYellow;
+}
+
+.sidebar {
+  background-color: LightSteelBlue;
+}
+
+h6 {
+  font-size: 1.75rem;
+}
